@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* [Problem Statement](#Problem Statement)
+* [Problem Statement](#Problem-Statement)
 * [High Level Solution Approach](#High-Level-Solution-Approach)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
