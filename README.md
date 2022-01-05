@@ -17,30 +17,24 @@
 -With help of this Data Set we need to identify risky loan applications and In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e., the variables which are strong indicators of default!
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Charged off is high for those who taken loan for 60 months compared to 36 months 
+- Plot shows more loans were charged off out of total loan issued for the not verified applicants!
+- The plot showing that huge no of the loans was taken for debt consolidation purpose and credit card bill
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pndas
+- Numpy
+- Matplotlib
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@aravindhrenganathan] - feel free to contact me!
 
 
 <!-- Optional -->
